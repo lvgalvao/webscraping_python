@@ -8,4 +8,4 @@ headers = {
 
 resposta = requests.get(url, headers=headers)
 
-print(resposta)
+print(resposta.text)
