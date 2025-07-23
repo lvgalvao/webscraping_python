@@ -11,4 +11,4 @@ Quero utilizar para isso
 
 ### Esse projeto faz parte da Jornada de dados
 
-Caso queira saber mais sobre a jornada, acesse o link: https://suajornadadados.com.br/
+Caso queira saber mais sobre a jornada, acesse o link: https://suajornadadedados.com.br/
